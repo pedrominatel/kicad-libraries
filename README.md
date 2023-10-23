@@ -23,7 +23,7 @@ Each footprint library is stored as a directory with the .pretty suffix. The foo
 
 Before designing your hardware, be sure to check all recommendations at:
 
-* [Espressif Hardware Design Guidelines](https://www.espressif.com/sites/default/files/documentation/esp32_hardware_design_guidelines_en.pdf)
+* [Espressif Hardware Design Guidelines](https://docs.espressif.com/)
 * [Espressif Product Selector](https://products.espressif.com/#/)
 
 ## Symbols and Footprints
@@ -78,14 +78,14 @@ The following SoC are included in this library
 
 ### Development Boards
 
-| Dev Board       | Symbol | Footprint | Resource                                                                                    |
-|:---------------:|:------:|:---------:|:-------------------------------------------------------------------------------------------:|
-|ESP32-S2-Saola-1 |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/ESP32-S2-SAOLA-1_V1.1_schematics.pdf)     |
-|ESP32-S2-DevKitC-1|Yes    |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/esp-idf/SCH_ESP32-S2-DEVKITC-1_V1_20220817.pdf) |
-|ESP32-DevKitC    |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf)                 |
-|ESP32-S3-DevKitC |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20220413.pdf) |
-|ESP32-S2-DevKitM |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/ESP32-S2-DevKitM-1_V1_Schematics.pdf)     |
-|ESP32-C6-DevKitC-1|Yes    |Yes        |[Schematic](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/_static/esp32-c6-devkitc-1/schematics/esp32-c6-devkitc-1-schematics_v1.2.pdf)     |
+| Dev Board         | Symbol | Footprint | Resource                                                                                                                                                      |
+|:-----------------:|:------:|:---------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|ESP32-S2-Saola-1   |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/ESP32-S2-SAOLA-1_V1.1_schematics.pdf)                                                                       |
+|ESP32-S2-DevKitC-1 |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/esp-idf/SCH_ESP32-S2-DEVKITC-1_V1_20220817.pdf)                                                             |
+|ESP32-DevKitC      |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/esp32_devkitc_v4-sch.pdf)                                                                                   |
+|ESP32-S3-DevKitC   |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/SCH_ESP32-S3-DevKitC-1_V1.1_20220413.pdf)                                                                   |
+|ESP32-S2-DevKitM   |Yes     |Yes        |[Schematic](https://dl.espressif.com/dl/schematics/ESP32-S2-DevKitM-1_V1_Schematics.pdf)                                                                       |
+|ESP32-C6-DevKitC-1 |Yes     |Yes        |[Schematic](https://docs.espressif.com/projects/espressif-esp-dev-kits/en/latest/_static/esp32-c6-devkitc-1/schematics/esp32-c6-devkitc-1-schematics_v1.2.pdf) |
 
 ## Manual Installation - PCM
 
